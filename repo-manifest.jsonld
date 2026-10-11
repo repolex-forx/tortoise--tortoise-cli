@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tortoise/tortoise-cli/commit/f46c2300480995402b1bce589175dfd5c94b8789",
       "git:hexsha": "f46c2300480995402b1bce589175dfd5c94b8789",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tortoise/tortoise-cli/commit/49287bafb289eaaddb90a35e4ea1cf5703e246be",
