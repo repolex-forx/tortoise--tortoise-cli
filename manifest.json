@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "tortoise",
+  "repo": "tortoise-cli",
+  "versions": [
+    {
+      "commit": "f46c2300480995402b1bce589175dfd5c94b8789",
+      "parsed_at": "2026-10-11T05:04:18.764621+00:00",
+      "filetree": "filetree/f46c2300480995402b1bce589175dfd5c94b8789.nq.gz",
+      "blobs": [
+        "blob/1b2f1fc35671f96541e5d773d73d552edc987c49.nq.gz",
+        "blob/38a7f5840bc53bc8690115e35114d01f1650c661.nq.gz",
+        "blob/e17e6b76c78902d7f37bf56cc2ccc53e486241f5.nq.gz",
+        "blob/a22a225779b6bfead01e9484c9c3535c83987543.nq.gz",
+        "blob/1a512a9eae5d82f6ee85804d9cd938f258937835.nq.gz",
+        "blob/a032dc62809a8ad767de93e637054dbbc01e2718.nq.gz",
+        "blob/022066d66c735a6c04ea33ccc7ebb39998d507ea.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/cb252812ffd9f176f10d8d2767d9006e9d870a6c.nq.gz",
+        "blob/8bcb830b7fb26102eea459babf6ecd94e9298494.nq.gz",
+        "blob/5d18e4823b6561d47deb7a3cc7e455c155ea81cd.nq.gz",
+        "blob/8c862b2bb2a687927491279fa9a903491505a65b.nq.gz",
+        "blob/d324e1a75eac8f1691e8e011ff3e42ba10a5a4ab.nq.gz",
+        "blob/065c5be5b90f62c81500342e255b2c07d0151acb.nq.gz",
+        "blob/36a15fa24ef1ea96cb538a21026080c7ac47a5f3.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/d3ec452c319b475c6661b100f2dd22ca031ed911.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
